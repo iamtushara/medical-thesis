@@ -1,0 +1,101 @@
+﻿Age,Gender,Marital Status,Occupation,Duration,Type,Nail Changes,Joint Pain,DM,HTN,PASI,PSQI,PSS
+18,Male,Unmarried,Student,3,Guttate,0,0,0,0,5,7,13
+34,Male,Married,Driver,48,Chronic Plaque,1,0,0,0,14,9,9
+19,Female,Unmarried,Student,24,Chronic Plaque,0,0,0,0,7,5,4
+37,Female,Married,Homemaker,120,Chronic Plaque,1,0,1,0,4,5,8
+27,Male,Unmarried,Professional,60,Chronic Plaque,1,1,0,0,8,8,15
+73,Male,Married,Unemployed,300,Chronic Plaque,1,1,0,1,4,3,5
+54,Female,Married,Homemaker,96,Palmoplantar,0,0,0,0,2,4,3
+29,Female,Married,Professional,48,Erythroderma,1,1,0,0,38,16,19
+28,Male,Unmarried,Manual worker,72,Scalp,0,0,0,0,2,4,9
+31,Male,Married,Healthcare worker,2,Guttate,0,0,0,0,14,6,8
+44,Male,Married,Manual worker,168,Chronic Plaque,1,1,0,0,18,8,15
+26,Male,Unmarried,Professional,3,Guttate,0,0,0,0,12,8,12
+43,Female,Married,Healthcare worker,96,Chronic Plaque,0,0,1,0,19,12,17
+33,Male,Unmarried,Healthcare worker,18,Palmoplantar,1,1,0,0,1,6,4
+50,Male,Married,Driver,240,Chronic Plaque,1,0,1,1,22,11,18
+65,Male,Married,Unemployed,300,Chronic Plaque,1,0,0,1,35,11,20
+26,Male,Unmarried,Professional,48,Chronic Plaque,0,0,0,0,22,9,14
+44,Male,Married,Manual worker,96,Chronic Plaque,0,0,0,0,10,5,7
+26,Male,Unmarried,Professional,36,Chronic Plaque,1,0,0,0,22,8,14
+34,Female,Married,Homemaker,72,Chronic Plaque,0,0,0,0,14,12,14
+35,Male,Married,Driver,60,Chronic Plaque,0,0,0,0,11,7,11
+75,Male,Married,Unemployed,360,Chronic Plaque,1,0,1,1,12,8,12
+30,Female,Married,Manual worker,60,Chronic Plaque,0,0,0,0,22,9,11
+35,Male,Married,Professional,84,Scalp,0,0,0,0,2,9,9
+68,Male,Married,Unemployed,216,Erythroderma,1,0,0,1,24,13,15
+31,Male,Unmarried,Healthcare worker,2,Guttate,0,0,0,0,8,6,8
+43,Female,Married,Homemaker,120,Chronic Plaque,1,1,0,0,10,7,10
+18,Male,Unmarried,Student,48,Palmoplantar,0,0,0,0,2,4,3
+50,Male,Married,Manual worker,180,Chronic Plaque,1,0,0,0,15,10,15
+48,Female,Married,Homemaker,48,Chronic Plaque,0,0,0,0,8,5,8
+60,Male,Married,Professional,144,Chronic Plaque,1,1,0,1,20,10,12
+36,Female,Married,Professional,24,Chronic Plaque,0,0,1,0,5,4,6
+45,Male,Married,Manual worker,60,Chronic Plaque,0,0,0,0,4,5,8
+32,Male,Unmarried,Driver,48,Palmoplantar,0,0,0,0,2,8,10
+66,Female,Married,Homemaker,300,Chronic Plaque,1,0,1,0,14,11,13
+20,Male,Unmarried,Student,1,Guttate,0,0,0,0,6,10,15
+42,Male,Married,Professional,24,Chronic Plaque,0,0,0,0,8,6,9
+48,Female,Married,Homemaker,36,Chronic Plaque,0,0,0,1,13,9,12
+25,Male,Unmarried,Healthcare worker,60,Chronic Plaque,0,0,0,0,7,8,12
+73,Male,Married,Unemployed,240,Chronic Plaque,1,1,1,1,26,14,17
+62,Male,Married,Manual worker,84,Chronic Plaque,1,0,0,0,5,4,3
+22,Male,Unmarried,Student,48,Palmoplantar,0,0,0,0,2,6,5
+36,Male,Married,Driver,72,Chronic Plaque,0,0,0,0,8,5,7
+38,Female,Married,Professional,12,Chronic Plaque,0,0,0,0,4,7,10
+55,Female,Married,Homemaker,60,Chronic Plaque,1,0,1,1,16,11,17
+47,Male,Married,Manual worker,24,Chronic Plaque,0,0,0,0,7,3,4
+28,Female,Unmarried,Professional,2,Guttate,0,0,0,0,6,8,11
+66,Male,Married,Unemployed,192,Chronic Plaque,1,1,0,1,18,11,15
+19,Male,Unmarried,Student,12,Scalp,0,0,0,0,2,9,14
+30,Male,Unmarried,Professional,18,Palmoplantar,0,0,0,0,1,3,3
+42,Male,Married,Manual worker,96,Chronic Plaque,1,0,0,0,8,5,7
+45,Female,Married,Homemaker,24,Palmoplantar,0,0,0,0,2,4,5
+28,Female,Unmarried,Professional,48,Chronic Plaque,0,0,0,0,6,4,9
+63,Male,Married,Manual worker,120,Chronic Plaque,1,0,0,1,10,7,12
+72,Male,Married,Unemployed,180,Chronic Plaque,1,1,1,1,24,12,17
+56,Male,Married,Professional,18,Palmoplantar,0,0,0,0,1,2,3
+44,Female,Married,Healthcare worker,72,Palmoplantar,0,0,0,0,2,4,7
+30,Male,Unmarried,Professional,48,Scalp,0,0,0,0,2,8,12
+48,Female,Married,Homemaker,144,Chronic Plaque,1,1,1,0,18,13,16
+54,Male,Married,Manual worker,216,Chronic Plaque,1,1,0,1,15,9,13
+22,Male,Unmarried,Student,12,Palmoplantar,0,0,0,0,1,1,3
+34,Male,Married,Professional,2,Guttate,0,0,0,0,5,6,9
+36,Female,Married,Healthcare worker,60,Chronic Plaque,0,0,0,0,5,5,6
+49,Male,Married,Driver,108,Chronic Plaque,0,0,0,0,7,4,8
+58,Male,Married,Manual worker,36,Chronic Plaque,0,0,0,0,6,3,6
+26,Male,Unmarried,Professional,24,Palmoplantar,0,0,0,0,1,5,8
+78,Male,Married,Unemployed,300,Erythroderma,1,1,0,1,34,14,18
+43,Female,Married,Homemaker,72,Chronic Plaque,0,0,1,0,9,8,11
+55,Male,Married,Manual worker,48,Chronic Plaque,0,0,0,0,4,3,3
+38,Female,Married,Professional,120,Chronic Plaque,1,1,0,0,14,9,13
+25,Male,Unmarried,Student,3,Guttate,0,0,0,0,6,6,9
+48,Male,Married,Driver,144,Palmoplantar,1,1,0,0,3,5,4
+28,Male,Unmarried,Professional,24,Scalp,0,0,0,0,2,6,10
+64,Male,Married,Manual worker,108,Chronic Plaque,1,0,0,1,12,7,11
+45,Female,Married,Healthcare worker,60,Palmoplantar,0,0,0,0,2,3,3
+48,Male,Married,Professional,156,Chronic Plaque,1,1,0,0,16,9,14
+36,Female,Married,Homemaker,48,Palmoplantar,0,0,0,0,1,4,3
+70,Male,Married,Unemployed,240,Chronic Plaque,1,1,1,1,28,13,16
+53,Male,Married,Manual worker,36,Chronic Plaque,0,0,0,0,4,4,7
+19,Male,Unmarried,Student,1,Guttate,0,0,0,0,5,6,10
+28,Female,Unmarried,Healthcare worker,72,Palmoplantar,0,0,0,0,2,6,3
+62,Male,Married,Manual worker,84,Chronic Plaque,1,0,0,0,7,5,8
+27,Male,Unmarried,Professional,24,Scalp,0,0,0,0,2,5,9
+35,Male,Married,Professional,60,Palmoplantar,0,0,0,0,2,4,3
+52,Male,Married,Driver,24,Chronic Plaque,0,0,0,0,3,2,6
+48,Female,Married,Homemaker,120,Chronic Plaque,1,0,0,0,7,6,9
+56,Female,Married,Homemaker,48,Chronic Plaque,0,0,1,0,6,3,8
+65,Male,Married,Manual worker,180,Chronic Plaque,1,0,0,1,10,7,12
+26,Male,Unmarried,Student,12,Scalp,0,0,0,0,2,6,10
+44,Female,Married,Homemaker,96,Chronic Plaque,1,1,1,0,16,11,15
+38,Female,Married,Healthcare worker,36,Palmoplantar,0,0,0,0,1,4,3
+66,Male,Married,Unemployed,144,Chronic Plaque,1,0,1,1,23,11,18
+34,Male,Married,Healthcare worker,24,Palmoplantar,0,0,0,0,2,2,3
+24,Male,Unmarried,Student,6,Scalp,0,0,0,0,1,5,9
+57,Male,Married,Manual worker,60,Chronic Plaque,0,0,0,0,5,3,5
+47,Female,Married,Homemaker,108,Chronic Plaque,1,0,0,0,7,5,6
+74,Male,Married,Unemployed,240,Chronic Plaque,1,0,0,1,12,9,14
+54,Female,Married,Homemaker,168,Chronic Plaque,1,1,1,0,26,14,19
+30,Male,Unmarried,Professional,18,Palmoplantar,0,0,0,0,1,0,3
+23,Male,Unmarried,Student,2,Guttate,0,0,0,0,4,3,8
