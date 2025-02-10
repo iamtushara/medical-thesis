@@ -1,4 +1,4 @@
-# asharbh-thesis  
+# medical-thesis  
 
 ## Introduction
 
