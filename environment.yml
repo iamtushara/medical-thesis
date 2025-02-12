@@ -1,4 +1,4 @@
-name: asharbh-thesis
+name: medical-thesis
 
 channels:
   - conda-forge
